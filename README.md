@@ -2,7 +2,9 @@
 
 HIGH LEVEL DESCRIPTION
 
-Specs for Alarm Clock
+This is a program to simulate the basic functions of an alarm clock.
+
+Specs for Alarm Clock include:
 
 	LCD to display time
 	
@@ -32,3 +34,14 @@ A4: Toggles the alarm. Alarm is set to disable on initialization.
 
 Speaker is wired to B6.
 
+Technologies and components used in custom lab:
+
+AVR Studio 6
+
+ATmega1284
+
+Speaker
+
+5 Buttons
+
+5v power supply
